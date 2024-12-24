@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "576257641564",
+    "project_id": "medicaltestresultanalysisapp",
+    "storage_bucket": "medicaltestresultanalysisapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576257641564:android:695daabc63b2f1ee93ea99",
+        "android_client_info": {
+          "package_name": "com.anonymous.medicalTestResultAnalysisApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDicwW8pn8McptqBr8Bqw6ULqMOkha5kV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
